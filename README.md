@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Haashir Sanaa</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **an ed-tech website**
+- 🔭 I’m currently working on **an AI SaaS application**
 
-- 🌱 I’m currently learning **Next.js and APIs**
+- 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://haashirsanaa.netlify.app/](https://haashirsanaa.netlify.app/)
-
-- 💬 Ask me about **react, node/express.js**
+- 💬 Ask me about **React, Node.js**
 
 - 📫 How to reach me **haashirsanaa07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZGt89llSI3-IUmyrkCd-DvMn1CxqFeX6/view?usp=sharing](https://drive.google.com/file/d/1ZGt89llSI3-IUmyrkCd-DvMn1CxqFeX6/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sQLNQPTu_L1x1Dd_g3zgtDY8T0QnIEwk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
